@@ -16,11 +16,16 @@ h2{
 }
 
 #end{
-	background-color: #EE4D4D;
+	background-color: #d9f4ff;
 }
 
 #up{
+	color: #EE4D4D;
 	padding: 0.9375rem;
+}
+
+.image{
+	padding: 0.625rem;
 }
 
 #timeline {
